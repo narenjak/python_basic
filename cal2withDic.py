@@ -1,7 +1,7 @@
 while 1:
-    num1 = float(input("input a num: "))
-    num2 = float(input("input a num: "))
-    operator = input("input a operator: ")
+    num1 = float(input("input num1: "))
+    num2 = float(input("input num2: "))
+    operator = input("input operator: ")
 
     d = {
         "+": num1+num2,
